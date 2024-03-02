@@ -1,7 +1,12 @@
-h1 {
+h2 {
   color:blue;
   text-align:Left;
   margin-Top: 50px;
   border-Right: 25px;
   background-color:"#aaa6";
   {
+
+h1{
+  text-align:Center;
+  
+  }
