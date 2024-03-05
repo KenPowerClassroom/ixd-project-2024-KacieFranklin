@@ -3,9 +3,10 @@ h2 {
   text-align:Left;
   margin-Top: 50px;
   border-Right: 25px;
-  background-color:"#aaa6";
+  background-color:lightgray;
   {
 
 h1{
- text-align:Center;
+ text-align:Right;
+  margin-Left: 100px;
   }
