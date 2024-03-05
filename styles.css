@@ -9,5 +9,6 @@ h2 {
 h1{
   text-align:Center;
   margin-Left:50px;
-  
+  position:absolute;
+  left: 100px;
   }
