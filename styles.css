@@ -1,12 +1,15 @@
 h2 {
   color:blue;
   text-align:Left;
+  font-size: 40px;
   margin-Top: 50px;
-  border-Right: 25px;
+  border-Left: 25px;
   background-color:lightgray;
   {
 
 h1{
  text-align:Right;
   margin-Left: 100px;
+  Right:100px;
+  Bottom:50px;
   }
