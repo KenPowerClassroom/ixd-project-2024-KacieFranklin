@@ -10,7 +10,5 @@ h2 {
 h1{
   color:blue;
   margin-Left: 100px;
-  position:float;
-  Right:100px;
-  Top:50px;
+  text-align:Right;
   }
