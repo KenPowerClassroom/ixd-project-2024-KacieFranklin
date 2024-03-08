@@ -1,15 +1,59 @@
 h1 {
-  color:red;
+  color:rgb(0, 0, 0);
   text-align:Center;
-  margin-Bottom:50px;
-  margin-Left:50px;
-  {
+  margin-bottom:50px;
+  margin-left:50px;
+}
 
   #Home {
     font-size: 30px;
     margin-Top: 50px;
     border-Left: 25px;
     background-color:lightgray;
-    {
+    width:150px;
+  }
+
+  #Audit {
+    font-size: 30px;
+    margin-Top: 50px;
+    border-Left: 25px;
+    background-color:lightgray;
+    width:250px;
+  }
+
+  #Frames {
+    font-size: 30px;
+    margin-Top: 50px;
+    border-Left: 25px;
+    background-color:lightgray;
+    width:180px;
+  }
+
+  #Proto {
+    font-size: 30px;
+    margin-Top: 50px;
+    border-Left: 25px;
+    background-color:lightgray;
+    width:180px;
+  }
+
+  #Useability {
+    font-size: 30px;
+    margin-Top: 50px;
+    border-Left: 25px;
+    background-color:lightgray;
+    width:200px
+  }
+
+  #Intro {
+    text-align: left;
+    margin-left:50px;
+  }
+
+  p {
+    font-size: 25px;
+    margin-Left:50px;
+  }
+  
 
  
