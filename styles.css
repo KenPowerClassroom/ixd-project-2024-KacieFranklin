@@ -1,48 +1,37 @@
 h1 {
   color:rgb(0, 0, 0);
   text-align:Center;
-  margin-bottom:50px;
+  margin-top:50px;
   margin-left:50px;
 }
 
+h2{
+  font-size:30px;
+}
+
   #Home {
-    font-size: 30px;
-    margin-Top: 50px;
-    border-Left: 25px;
     background-color:lightgray;
-    width:150px;
+    width:80px;
   }
 
   #Audit {
-    font-size: 30px;
-    margin-Top: 50px;
-    border-Left: 25px;
     background-color:lightgray;
     width:250px;
   }
 
   #Frames {
-    font-size: 30px;
-    margin-Top: 50px;
-    border-Left: 25px;
     background-color:lightgray;
-    width:180px;
+    width:160px;
   }
 
   #Proto {
-    font-size: 30px;
-    margin-Top: 50px;
-    border-Left: 25px;
     background-color:lightgray;
-    width:180px;
+    width:140px;
   }
 
-  #Useability {
-    font-size: 30px;
-    margin-Top: 50px;
-    border-Left: 25px;
+  #Usability {
     background-color:lightgray;
-    width:200px
+    width:180px
   }
 
   #Intro {
@@ -51,7 +40,7 @@ h1 {
   }
 
   p {
-    font-size: 25px;
+    font-size: 20px;
     margin-Left:50px;
   }
   
