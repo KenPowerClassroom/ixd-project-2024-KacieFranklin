@@ -1,8 +1,8 @@
 h1 {
   color:red;
   text-align:Center;
-  Bottom:50px;
-  Left:50px;
+  margin-Bottom:50px;
+  margin-Left:50px;
   {
 
 
@@ -14,3 +14,12 @@ h2 {
   border-Left: 25px;
   background-color:lightgray;
   {
+
+  #Home {
+    font-size: 30px;
+    margin-Top: 50px;
+    border-Left: 25px;
+    background-color:lightgray;
+    {
+
+ 
