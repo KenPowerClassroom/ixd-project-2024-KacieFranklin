@@ -43,6 +43,59 @@ h2{
     font-size: 20px;
     margin-Left:50px;
   }
+
+  table {
+    border: 5px solid black;
+  }
+
+  .learn {
+    border: 5px solid black;
+  }
+  
+  td, tr{
+    border: 2px solid rgb(0, 0, 0);
+  }
+
+  #KahootEne {
+    background-color: rgb(93, 224, 93);
+  }
+
+  #QuizEne {
+    background-color: rgb(93, 224, 93);
+  }
+
+  #CCEne {
+    background-color: rgb(93, 224, 93);
+  }
+
+  #KahootPT {
+    background-color: red;
+  }
+
+  #QuizPT {
+    background-color: rgb(93, 224, 93);
+  }
+
+  #CCPT {
+    background-color: rgb(93, 224, 93);
+  }
+
+  #KahootUE {
+    background-color: rgb(93, 224, 93);
+  }
+
+  #QuizUE {
+    background-color: red;
+  }
+
+  #CCUE {
+    background-color: orange;
+  }
+ 
+
+  #AuditTab{
+    text-align: center;
+  }
   
 
  
