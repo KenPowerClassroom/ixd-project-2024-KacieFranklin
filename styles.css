@@ -99,13 +99,50 @@ h2{
   
   #wire{
     text-align: center;
+    background-color: rgb(210, 210, 210);
   }
 
   #WFrames {
     text-align: center;
+    background-color: rgb(210, 210, 210);
   }
 
   #AltScreen {
     text-align: center;
+    background-color: rgb(210, 210, 210);
+  }
+
+  #task{
+    text-align: center;
+  }
+
+  #flow{
+    margin-left: 245px;
+  }
+
+  #screen1{
+    margin-left: 245px;
+  }
+
+  #screen2{
+    margin-left: 245px;
   }
  
+  #screen3{
+    margin-left: 245px;
+  }
+
+  #screen4{
+    margin-left: 245px;
+  }
+
+  .practice{
+    background-color: rgb(169, 209, 210);
+    text-align: center;
+    font-size: 30px;
+  }
+
+  #altScreens
+  {
+    margin-left: 80px;
+  }
