@@ -146,3 +146,20 @@ h2{
   {
     margin-left: 80px;
   }
+
+  #protoType{
+    text-align: center;
+  }
+
+  #figma{
+    text-align: center;
+  }
+
+  #screenshots{
+    text-align: center;
+  }
+
+  img{
+    margin-left: 160px;
+    margin-bottom: 50px;
+  }
